@@ -1,2 +1,1 @@
-# South_Wind
-Airplane website
+https://sam4599.github.io/South_Wind/
